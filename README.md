@@ -138,4 +138,4 @@ My goal is to combine my systems engineering background with hands-on Azure expe
 
 [LinkedIn](https://www.linkedin.com/in/abdulsattar-homsi/)
 
-📍 Oberhausen, Germany
+📍 Germany
