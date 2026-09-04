@@ -63,7 +63,6 @@ Microsoft — July 2026
 Professional training in:
 - Microsoft Azure Administration
 - Windows Server Hybrid Administration
-- Network & Database Administration
 
 ---
 
