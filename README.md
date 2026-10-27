@@ -114,6 +114,27 @@ An event-driven serverless file-processing platform built with Azure Functions a
 
 ---
 
+### 💰 Cloud Cost & Governance Automation — Azure PowerShell Auditing
+
+An operational automation project demonstrating proactive cost optimization and security auditing in Microsoft Azure using PowerShell.
+
+**Azure Services & Technologies**
+
+`PowerShell` `Azure Managed Disks` `Network Interfaces (NICs)`  
+`Network Security Groups (NSGs)` `Microsoft Entra ID` `Azure RBAC`
+
+**Key Highlights**
+
+- Automated discovery of unattached managed disks to prevent cloud storage waste
+- Orphaned network interface identification and cleanup reporting
+- Security posture auditing for Network Security Groups (NSGs) exposing management ports
+- Safe read-only execution adhering to the least-privilege security model
+- Cost-aware design and ephemeral lab validation methodology
+
+➡️ [View Cost & Governance Automation Project](https://github.com/Abdulsattar-Homsi/azure-cost-governance-automation)
+
+---
+
 ## 🔧 Currently Developing
 
 I'm continuing to expand this portfolio with production-style Azure administration and troubleshooting scenarios, focusing on:
